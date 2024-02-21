@@ -59,7 +59,7 @@ public class CCuenta {
         saldo = saldo - cantidad;
     }
 
-
+//asdas
     public String obtenerCuenta()
     {
         return cuenta;
