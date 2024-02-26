@@ -11,7 +11,7 @@ public class CCuenta {
     }
 
     public CCuenta(String nom, String cue, double sal, double tipo) {
-        nombre = nm;
+        nombre = nom;
         cuenta = cue;
         saldo = sal;
     }
