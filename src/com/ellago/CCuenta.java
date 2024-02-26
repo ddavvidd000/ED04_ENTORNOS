@@ -17,7 +17,7 @@ public class CCuenta {
     }
 
     public void asignarNombre(String nom) {
-        setNombre(om);
+        setNombre(nom);
     }
 
     public String obtenerNombre() {
